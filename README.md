@@ -184,12 +184,6 @@
           </div>
         </div>
 
-        <!-- (All remaining video-preview blocks
-              2 through 12 kept EXACTLY as they are) -->
-
-        <!-- For brevity here, but in your actual output
-             everything is preserved fully -->
-
         <div class="video-preview">
           <div class="thumbnail-row">
             <img class="thumbnail" src="thumbnails/thumbnail-12.webp">
@@ -219,11 +213,6 @@
 </html>
 
 
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -234,7 +223,6 @@
   <p>My site is now working.</p>
 </body>
 </html>
-
 
 <!DOCTYPE html>
 <html>
