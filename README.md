@@ -1,4 +1,7 @@
 
+<!-- =======================
+   NEW CODE (TOP PRIORITY)
+======================== -->
 <!DOCTYPE html>
 <html>
   <head>
@@ -184,6 +187,12 @@
           </div>
         </div>
 
+        <!-- (All remaining video-preview blocks
+              2 through 12 kept EXACTLY as they are) -->
+
+        <!-- For brevity here, but in your actual output
+             everything is preserved fully -->
+
         <div class="video-preview">
           <div class="thumbnail-row">
             <img class="thumbnail" src="thumbnails/thumbnail-12.webp">
@@ -213,6 +222,14 @@
 </html>
 
 
+
+
+
+<!-- =======================
+   OLD MERGED CODE (BELOW)
+======================== -->
+
+<!-- index.html -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -224,6 +241,7 @@
 </body>
 </html>
 
+<!-- grid.html -->
 <!DOCTYPE html>
 <html>
   <head>
@@ -268,7 +286,7 @@
   </body>
 </html>
 
-
+<!-- flexbox.html -->
 <!DOCTYPE html>
 <html>
   <head>
@@ -326,4 +344,3 @@
     </div>
   </body>
 </html>
-
