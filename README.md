@@ -1,4 +1,7 @@
 
+    <!DOCTYPE html>
+<html>
+  <head>
     <title>YouTube.com Clone</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -354,4 +357,4 @@
     </main>
   </body>
 </html>
- 
+
